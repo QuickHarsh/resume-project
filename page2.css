@@ -4,7 +4,7 @@ body {
     background-color: #f9f9f9;
     color: #333;
     line-height: 1.6;
-    background: url(https://img.freepik.com/free-vector/retro-style-futuristic-landscape-background_52683-17907.jpg?ga=GA1.1.1933172207.1733560839&semt=ais_hybrid);
+    background: linear-gradient(to right, #845ec2, #2c73d2,#0081cf,#0089ba,#008e9b,#008f7a);
 }
 
 header {
@@ -40,6 +40,7 @@ header h1 {
 .profile img {
     width: 150px;
     height: 150px;
+    box-shadow: 0 0 10px rgb(0, 115, 255);
     border-radius: 50%;
     object-fit: cover;
     margin-right: 20px;
