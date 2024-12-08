@@ -1,5 +1,4 @@
-/* General Reset */
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -13,7 +12,7 @@ body {
 }
 
 header {
-    background: #4f4fcb;
+    background: #000000;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -36,6 +35,7 @@ header nav ul {
 
 header nav ul li {
     display: inline;
+    color: white;
 }
 
 header nav ul li a {
@@ -57,15 +57,15 @@ header nav ul li a:hover {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    z-index: -1; /* Places the video behind the content */
+    z-index: -1;
 }
 
 .resume-section {
-    position: relative; /* Ensures proper layering of content over the video */
+    position: relative;
     padding: 40px 20px;
     text-align: center;
     color: white;
-    background: rgba(0, 0, 0, 0.5); /* Optional overlay for better contrast */
+    background: rgba(0, 0, 0, 0.5);
 }
 
 .resume-section h1 {
@@ -86,7 +86,7 @@ header nav ul li a:hover {
     overflow: hidden;
     max-width: 600px;
     margin: 0 auto;
-    background: rgba(255, 255, 255, 0.8); /* Light background for the resume */
+    background: transparent;
 }
 
 .resume-container img {
@@ -112,7 +112,8 @@ header nav ul li a:hover {
 }
 
 .resume-section button:hover {
-    background: #3e3ea1;
+    color: black;
+    background: #44ff00;
     transform: scale(1.1);
 }
 
@@ -120,5 +121,114 @@ footer {
     text-align: center;
     padding: 15px 0;
     background: #4f4fcb;
+    color: #fff;
+}
+ */
+
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2022/06/03/17/53/blue-wallpaper-7240665_1280.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+nav {
+    position: sticky;
+    top: 0;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    text-align: center;
+    z-index: 1000;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+nav a:hover {
+    color: #ff0000;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 20px 0;
+    color: #fff;
+}
+
+h1 span {
+    color: #ff0000;
+}
+
+.profile-img {
+    display: block;
+    margin: 20px auto;
+    width: 20%;
+    border-radius: 50%;
+    border: 5px groove black;
+}
+.social-links {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.social-links a {
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.social-links img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.social-links img:hover {
+    transform: scale(1.1);
+}
+
+section {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+}
+
+section h2 {
+    color: #ff0000;
+    font-size: 2rem;
+}
+
+section p, ol {
+    font-size: 1.2rem;
+}
+
+ol {
+    list-style: none;
+    padding-left: 0;
+}
+
+ol li {
+    background-color: yellow;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: black;
+    border-radius: 8px;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    position: relative;
+    bottom: 0;
+    width: 100%;
     color: #fff;
 }
