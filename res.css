@@ -12,8 +12,8 @@ body {
 }
 
 header {
-    background: #4f4fcb;
-    color: #fff;
+    background: grey;
+    color: rgb(170, 234, 255);
     padding: 20px;
     text-align: center;
     display: flex;
@@ -25,6 +25,8 @@ header .logo {
     font-size: 1.8rem;
     font-weight: bold;
     letter-spacing: 1.5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
 
 header nav ul {
@@ -33,8 +35,10 @@ header nav ul {
     gap: 15px;
 }
 
+
 header nav ul li {
     display: inline;
+    
 }
 
 header nav ul li a {
@@ -53,12 +57,15 @@ header nav ul li a:hover {
     padding: 40px 20px;
     text-align: center;
     background: linear-gradient(135deg, #ffffff, #ece9e9);
+    
 }
 
 .resume-section h1 {
-    font-size: 2.5rem;
-    margin-bottom: 15px;
-    color: #4f4fcb;
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
 .resume-section p {
@@ -106,6 +113,10 @@ header nav ul li a:hover {
 footer {
     text-align: center;
     padding: 15px 0;
-    background: #4f4fcb;
+    background: #36363b;
     color: #fff;
 }
+
+
+
+
