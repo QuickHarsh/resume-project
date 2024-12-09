@@ -62,4 +62,4 @@ If you have any questions or feedback, feel free to reach out!
 
 ---
 
-*Made with ❤️ by Harsh , Yash and Aniruddh *  
+**Made with ❤️ by Harsh , Yash and Aniruddh**  
