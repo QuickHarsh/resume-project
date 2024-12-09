@@ -41,14 +41,14 @@ Check out the live version of the project here: [Live Demo Link](https://quickha
 
 ---
 
-## 🌟 Contribution
+# 🌟 Contribution
 
 Contributions are welcome!  
 Feel free to submit issues or pull requests to improve this project. 😊
 
 ---
 
-## 📧 Contact
+# 📧 Contact
 
 If you have any questions or feedback, feel free to reach out!  
 
