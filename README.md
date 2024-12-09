@@ -1,6 +1,6 @@
 # 🌟 Resume Project
 
-Welcome to the **Resume Project** repository! This project is designed to showcase a professional, modern, and customizable online resume for developers, designers, and professionals. Built with 🔥 passion and a touch of innovation. 
+Welcome to the **Resume Project** repository! This project is designed to showcase a professional, modern, and customizable online resume for developers, designers, and professionals. Built with passion and a touch of innovation. 
 
 ---
 
@@ -37,8 +37,6 @@ Check out the live version of the project here: [Live Demo Link](https://quickha
    ```bash
    cd resume-project
    ```
-3. Open `index.html` in your browser to view the project locally.
-
 ---
 
 # 🌟 Contribution
