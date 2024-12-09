@@ -23,8 +23,7 @@ Welcome to the **Resume Project** repository! This project is designed to showca
 
 ## 🚀 Live Demo
 
-Check out the live version of the project here: [Live Demo Link](https://quickharsh.github.io/resume-project/)  
-(*Replace `#` with your actual link*)
+Check out the live version of the project here: [Live Demo Link](https://quickharsh.github.io/resume-project/)
 
 ---
 
