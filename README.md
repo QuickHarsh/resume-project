@@ -1,6 +1,6 @@
 # 🌟 Resume Project
 
-Welcome to the **Resume Project** repository! This project is designed to showcase a professional, modern, and customizable online resume for developers, designers, and professionals. Built with 🔥 passion and a touch of innovation, it serves as a great way to demonstrate your skills and experience in the digital age.
+Welcome to the **Resume Project** repository! This project is designed to showcase a professional, modern, and customizable online resume for developers, designers, and professionals. Built with 🔥 passion and a touch of innovation. 
 
 ---
 
@@ -54,8 +54,12 @@ If you have any questions or feedback, feel free to reach out!
 
 - **Name:** Harsh Patel
 - **Email:** hp1659414@gmail.com 
-- **GitHub:** [QuickHarsh](https://github.com/QuickHarsh)  
+- **GitHub:** [QuickHarsh](https://github.com/QuickHarsh)
+- **Name:** Aniruddh Sharma
+- **Email:** as1659414@gmail.com
+- - **GitHub:** [Quickaniruddh](Aniruddh-14.github.io)
+
 
 ---
 
-*Made with ❤️ by Harsh , Yash and Aniruddh*  
+*Made with ❤️ by Harsh , Yash and Aniruddh *  
