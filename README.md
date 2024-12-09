@@ -57,7 +57,7 @@ If you have any questions or feedback, feel free to reach out!
 - **GitHub:** [QuickHarsh](https://github.com/QuickHarsh)
 - **Name:** Aniruddh Sharma
 - **Email:** as1659414@gmail.com
-- - **GitHub:** [Quickaniruddh](Aniruddh-14.github.io)
+- **GitHub:** [Quickaniruddh](Aniruddh-14.github.io)
 
 
 ---
