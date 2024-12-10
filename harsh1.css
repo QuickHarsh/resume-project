@@ -1,4 +1,5 @@
-
+html{
+    scroll-behavior: smooth;
 body {
     background-image: url("https://cdn.pixabay.com/photo/2022/06/03/17/53/blue-wallpaper-7240665_1280.jpg");
     background-size: cover;
