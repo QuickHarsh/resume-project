@@ -10,7 +10,7 @@ Welcome to the **Resume Project** repository! This project is designed to showca
 - 🚀 **Responsive Design:** Works seamlessly across devices—desktop, tablet, or mobile.  
 - 🎨 **Customizable Themes:** Modify colors, layouts, and styles to suit your brand.  
 - 🌐 **Tech-Stack Showcase:** Display your technical skills and projects.  
-- 💼 **Downloadable PDF:** Allow users to download a PDF version of your resume.  
+- 💼 **Downloadable PDF:** Allow users to download a PDF version of your resume.  ---
 
 ---
 
